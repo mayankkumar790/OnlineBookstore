@@ -83,6 +83,6 @@ The main SQL file (`Project1.sql`) includes:
 
 ###Mayank Kumar
 📍 Data Analyst | SQL | Excel | Python
-🔗 LinkedIn (https://www.linkedin.com/in/mayank-kumar-2003y/)
-💻 GitHub (https://github.com/mayankkumar790)
+🔗 ![LinkedIn](https://www.linkedin.com/in/mayank-kumar-2003y/)
+💻 ![GitHub](https://github.com/mayankkumar790)
 📧 mayankkumar21july@gmail.com

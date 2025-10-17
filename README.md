@@ -81,8 +81,8 @@ The main SQL file (`Project1.sql`) includes:
 
 ##👨‍💻 Author
 
-###Mayank Kumar
-📍 Data Analyst | SQL | Excel | Python
-🔗 ![LinkedIn](https://www.linkedin.com/in/mayank-kumar-2003y/)
-💻 ![GitHub](https://github.com/mayankkumar790)
-📧 mayankkumar21july@gmail.com
+### 👨‍💻 Mayank Kumar  
+📍 Data Analyst | SQL | Excel | Python  
+🔗 [LinkedIn](https://www.linkedin.com/in/mayank-kumar-2003y/)  
+💻 [GitHub](https://github.com/mayankkumar790)  
+📧 [Mail](mailto:mayankkumar21july@gmail.com)

@@ -27,7 +27,6 @@ It contains three main tables — `Books`, `Customers`, and `Orders` — connect
 | **Customers** | Stores customer details like name, contact, and country |
 | **Orders** | Records book purchases and connects customers to books |
 
----
 
 ## 💻 SQL Script Details
 
@@ -46,7 +45,6 @@ The main SQL file (`Project1.sql`) includes:
    - Most frequently ordered books  
    - Remaining stock after fulfilling all orders  
 
----
 
 ## 📈 Insights Discovered
   - Total stock and revenue of all books
@@ -55,7 +53,6 @@ The main SQL file (`Project1.sql`) includes:
   - Customer spending analysis by city and region
   - Stock remaining after all orders
 
----
 
 ## 📄 Project Files
 | File                                                     | Description                               |
@@ -65,7 +62,6 @@ The main SQL file (`Project1.sql`) includes:
 | `A_diagram_in_the_image_illustrates_the_structure_o.png` | ER diagram image                          |
 | *(Optional)* `dataset/`                                  | CSV files used for importing data         |
 
----
 
 ## 🧰 Tools & Technologies
   - Database: MySQL

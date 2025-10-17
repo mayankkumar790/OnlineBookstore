@@ -60,8 +60,8 @@ The main SQL file (`Project1.sql`) includes:
 ## 📄 Project Files
 | File                                                     | Description                               |
 | -------------------------------------------------------- | ----------------------------------------- |
-| `Project1.sql`                                           | Complete SQL script with schema & queries |
-| `OnlineBookstore.pdf`                                    | Report containing solved question outputs |
+| `MySQL Files`                                            | Complete SQL script with schema & queries |
+| `Report`                                                 | pdf containing solved question outputs    |
 | `dataset`                                                | CSV files used for importing data         |
 
 ---

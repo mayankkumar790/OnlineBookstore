@@ -61,7 +61,7 @@ The main SQL file (`Project1.sql`) includes:
 | File                                                     | Description                               |
 | -------------------------------------------------------- | ----------------------------------------- |
 | `MySQL Files`                                            | Complete SQL script with schema & queries |
-| `Report`                                                 | pdf containing solved question outputs    |
+| `Report`                                                 | In pdf containing solved question outputs |
 | `dataset`                                                | CSV files used for importing data         |
 
 ---

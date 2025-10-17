@@ -62,8 +62,7 @@ The main SQL file (`Project1.sql`) includes:
 | -------------------------------------------------------- | ----------------------------------------- |
 | `Project1.sql`                                           | Complete SQL script with schema & queries |
 | `OnlineBookstore.pdf`                                    | Report containing solved question outputs |
-| `A_diagram_in_the_image_illustrates_the_structure_o.png` | ER diagram image                          |
-| *(Optional)* `dataset/`                                  | CSV files used for importing data         |
+| `dataset`                                                | CSV files used for importing data         |
 
 ---
 
